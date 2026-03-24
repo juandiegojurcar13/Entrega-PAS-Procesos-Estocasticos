@@ -1,2 +1,2 @@
 # Entrega-PAS-Procesos-Estocasticos
-Código para representar imágenes de las diapositivas del tema 1
+El código de este proyecto corresponde a una entrega de la asignatura Procesos Estocásticos. Se nos pide representar varias gráficas referidas a trayectorias de un PAS (Paso Aleatorio Simple), así como una visión de estas con y sin la media y varianza teóricas, además de una observación de cómo se va acercando la media empírica del PAS a medida que aumentamos el número de trayectorias.
